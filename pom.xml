@@ -11,7 +11,7 @@
     <packaging>jar</packaging>
     <groupId>org.webjars</groupId>
     <artifactId>google-analytics-snippet</artifactId>
-    <version>20161204</version>
+    <version>20161204-SNAPSHOT</version>
     <name>analytics.js</name>
     <description>WebJar for Google Analytics</description>
     <url>http://webjars.org</url>
@@ -29,9 +29,9 @@
     </licenses>
 
     <scm>
-        <url>https://github.com/johann-abraham/webjars-google-analytics-snippet</url>
-        <connection>scm:git:https://github.com/johann-abraham/webjars-google-analytics-snippet.git</connection>
-        <developerConnection>scm:git:https://github.com/johann-abraham/webjars-google-analytics-snippet.git</developerConnection>
+        <url>https://github.com/webjars/google-analytics-snippet</url>
+        <connection>scm:git:https://github.com/webjars/google-analytics-snippet.git</connection>
+        <developerConnection>scm:git:https://github.com/webjars/google-analytics-snippet.git</developerConnection>
         <tag>HEAD</tag>
     </scm>
 
